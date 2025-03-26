@@ -11,6 +11,6 @@ lbl.pack()
     # 3. BOTH
     # 4. none
 
-
+-*8971
 
 root_window.mainloop()
